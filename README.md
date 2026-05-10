@@ -6,7 +6,7 @@
 
 [![Typed.js](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Appwrite+Expert;Linux+Server+Admin;iOS+Tinkerer)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/rameez-mohammad-22081b293/">
+<a href="https://www.linkedin.com/in/rameez--mohammad/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
