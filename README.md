@@ -19,9 +19,18 @@
 I'm a Computer Science engineering student passionate about building scalable mobile applications and managing the infrastructure that powers them. I specialize in the **Flutter + Appwrite** stack and love getting my hands dirty with Linux server administration, Docker containerization, and hardware projects.
 
 - 🔭 **I’m currently working on:** The Web & App infrastructure for **Gyanith 2026** and maintaining **ClipFile**.
+- 🎓 **Major Contribution:** Developed and maintain the **Official Student Portal for NIT Puducherry**, streamlining academic resources for the campus.
 - 🌱 **I’m currently learning:** Advanced VPS networking and iOS internals.
 - 🐧 **My Hobbies:** Self-hosting (Appwrite, Minecraft), benchmarking VPS providers (GCP, OVH, Azure), and jailbreaking/sideloading on iOS.
 - ⚡ **Fun fact:** I code on anything I have on hand and migrate servers more often than I sleep.
+
+---
+
+### 🏆 Featured Projects
+
+> [!TIP]
+> **[NITPY Student Portal](https://github.com/ram3ez)**
+> Engineered the primary digital gateway for students at the National Institute of Technology, Puducherry. Focused on high-availability infrastructure and a seamless user experience.
 
 ---
 
